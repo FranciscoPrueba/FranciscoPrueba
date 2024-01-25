@@ -1,4 +1,4 @@
-![image](https://github.com/FranciscoPrueba/FranciscoPrueba/assets/153673143/665cd295-4e24-4f25-a900-8127df51b2c9)<div align="center">
+<div align="center">
 <h1 align="center">Hola, soy <a href="https://www.youtube.com/channel/UCMe09_7LPcSPYbzWCYmZVwA">FranciscoPrueba</a>👋</h1>
 </div>
 
